@@ -38,4 +38,4 @@ requires:
 resources:
   bugtracker: https://github.com/rustyconover/amazon-ses/issues
   repository: git://github.com/rustyconover/amazon-ses.git
-version: '0.02'
+version: '0.03'

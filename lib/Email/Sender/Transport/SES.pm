@@ -1,6 +1,6 @@
 package Email::Sender::Transport::SES;
 # ABSTRACT: send mail via Amazon::SES
-$Email::Sender::Transport::SES::VERSION = '0.02';
+$Email::Sender::Transport::SES::VERSION = '0.03';
 use Moo;
 extends 'Amazon::SES';
 with 'Email::Sender::Transport';
