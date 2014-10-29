@@ -37,5 +37,6 @@ requires:
   warnings: '0'
 resources:
   bugtracker: https://github.com/rustyconover/amazon-ses/issues
+  homepage: http://search.cpan.org/dist/Amazon-SES/
   repository: git://github.com/rustyconover/amazon-ses.git
-version: '0.03'
+version: '0.05'
